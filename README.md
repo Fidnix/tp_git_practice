@@ -13,7 +13,7 @@ Para tener el proyecto y poder usarlo, primero necesitarás descargar MinGw que 
 Luego de instalarlo deberás escribir el siguiente comando en tu consola para clonar el repositorio:
 
 ```bash
-git clone ...
+git clone https://github.com/Fidnix/tp_git_practice
 ```
 
 # Build
