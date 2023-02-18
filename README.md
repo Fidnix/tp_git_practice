@@ -28,7 +28,7 @@ gcc -g [file1.cpp] [file2.cpp] [...] -o build/build.exe -lstdc++
 Todo el comando es necesario. Actualmente el comando que puedes copiar para compilarlo es:
 
 ```bash
-gcc -g src/main.cpp src/main_display/main_display.cpp -o build/build.exe -lstdc++
+gcc -g src/main.cpp src/main_display/main_display.cpp src/maths/maths.cpp -o build/build.exe -lstdc++
 ```
 
 > Si has hechos cambios en el repositorio añadiendo archivos .cpp, por favor actualiza el nuevo comando en este archivo
